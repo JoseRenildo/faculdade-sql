@@ -1,3 +1,5 @@
+--linguagem: sql
+
 create database Faculdade;
 use Faculdade;
 
